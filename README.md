@@ -1,6 +1,6 @@
 # rollup-starter-app
 
-This repo contains a bare-bones example of how to create an application using Rollup, including importing a module from `node_modules` and converting it from CommonJS.
+This repo contains a bare-bones example and test of transpiling the most recent JavaScript features into the Edge Legacy version 18.
 
 *See also https://github.com/rollup/rollup-starter-lib*
 
@@ -10,7 +10,7 @@ This repo contains a bare-bones example of how to create an application using Ro
 Clone this repository and install its dependencies:
 
 ```bash
-git clone https://github.com/rollup/rollup-starter-app
+git clone [https://github.com/rollup/rollup-starter-app](https://github.com/Ninjonik/rollup-starter-app/)
 cd rollup-starter-app
 npm install
 
